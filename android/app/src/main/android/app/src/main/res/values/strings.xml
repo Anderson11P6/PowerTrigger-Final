@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PowerTrigger</string>
+    <string name="accessibility_service_description">Permite que o aplicativo PowerTrigger acesse o sistema para abrir o Menu de Energia (Desligar / Reiniciar) quando você solicitar pelo app.</string>
+</resources>
