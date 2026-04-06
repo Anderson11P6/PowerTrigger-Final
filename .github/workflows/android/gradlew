@@ -1,3 +1,0 @@
-#!/usr/bin/env sh
-# Script básico para o Gradle
-exec ./gradlew "$@"
