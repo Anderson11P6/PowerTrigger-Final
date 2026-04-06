@@ -1,3 +1,3 @@
 #!/usr/bin/env sh
-# Script básico para o Gradle
-exec ./gradlew "$@"
+# Tenta rodar o gradle do sistema, já que o wrapper que você fez é um loop
+gradle assembleDebug
